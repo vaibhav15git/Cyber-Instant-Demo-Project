@@ -189,6 +189,16 @@ height: 400px;
   font-size: 60px;
   font-family: sans-serif;
 }
-#ech_left_div h1 p{
+#tech_left_div h1 p{
   font-family: sans-serif;
+}
+#exp_more_btn{
+  background-color: rgb(59, 59, 165);
+  color: white;
+  padding: 10px;
+  border-radius: 20px;
+  width: 150px;
+  border: none;
+  margin-top: 80px;
+  cursor: pointer;
 }
